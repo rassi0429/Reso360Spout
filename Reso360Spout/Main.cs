@@ -218,7 +218,7 @@ namespace Reso360Spout
         // --- Properties (Override) ----------------------------------------
         public override string Name => "Reso360Spout";
         public override string Author => "kka429";
-        public override string Version => "0.0.2";
+        public override string Version => "0.0.6";
         public override string Link => "https://github.com/rassi0429/Reso360Spout";
 
         // --- Public Fields ------------------------------------------------
